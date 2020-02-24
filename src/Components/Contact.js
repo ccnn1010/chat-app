@@ -28,6 +28,28 @@ const Contact = (props)=>{
 
 export default Contact
 
+
+//using props with class component
+/* class Contact extends Component{
+  constructor(props){
+    super(props);
+    this.state = {
+    }
+  } 
+  
+  render(){
+    
+  }
+  */
+
+
+
+
+
+
+
+
+
 //Step 1: create a const the same name of the file or what ever you choose
 //Step 2: write an arrow function e.g. const Contact = () => {return(<div></div>)} 
 //Step 3: place props within the brackets of the function 
